@@ -23,3 +23,7 @@
 
 # History
 - 2018年 京都大学工学部電気電子工学科に入学
+
+# Favorite
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_PRLzrEBbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
