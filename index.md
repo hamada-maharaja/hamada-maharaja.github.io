@@ -2,8 +2,6 @@
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/namoonramenyaro?ref_src=twsrc%5Etfw">Tweets by namoonramenyaro</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I_PRLzrEBbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # About
 初めまして、濱田卓巳といいます。
 現在は大学3年生で、電気電子工学を専攻しております。
@@ -30,4 +28,4 @@
 
 # Favorite
 
-[![](https://img.youtube.com/vi/I_PRLzrEBbc/0.jpg)](https://www.youtube.com/watch?v=I_PRLzrEBbc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I_PRLzrEBbc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
